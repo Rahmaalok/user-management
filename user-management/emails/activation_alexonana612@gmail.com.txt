@@ -1,0 +1,10 @@
+Halo,
+
+Terima kasih telah mendaftar di Sistem Manajemen Gudang.
+Silakan klik link berikut untuk mengaktifkan akun Anda:
+http://localhost/user-management/activate.php?token=3187408ad4ca29db5335fa51fe22ac6261daa65ea046db5b0599439028022ea6
+
+Link ini berlaku selama 24 jam.
+
+Salam,
+Admin Sistem
